@@ -3,22 +3,22 @@
       {
          "nombre":"Andrés",
          "CantidadTransacciones":10,
-         "ValorTotalTransacciones":15000
+         "ValorTotalTransacciones":15
       },
       {
          "nombre":"Juan",
          "CantidadTransacciones":100,
-         "ValorTotalTransacciones":25000
+         "ValorTotalTransacciones":25
       },
       {
          "nombre":"Pedro",
          "CantidadTransacciones":1000,
-         "ValorTotalTransacciones":35000
+         "ValorTotalTransacciones":35
       },
       {
          "nombre":"Óscar",
          "CantidadTransacciones":2000,
-         "ValorTotalTransacciones":40000
+         "ValorTotalTransacciones":40
       }
 
    ],
